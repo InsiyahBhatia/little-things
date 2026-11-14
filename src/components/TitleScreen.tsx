@@ -5,6 +5,7 @@ import { useGameStore } from '@/store/gameStore';
 import { audio } from '@/lib/audio';
 import { sounds } from '@/lib/sound';
 import { ControlsList } from './hud/ControlsList';
+import { VolumeButton } from '@/components/ui/VolumeButton';
 
 /**
  * The title screen. The animated meadow behind it is drawn by Phaser; this
@@ -26,6 +27,10 @@ export function TitleScreen({ ready }: { ready: boolean }) {
 
   return (
     <div className="absolute inset-0 z-20 flex flex-col items-center overflow-y-auto px-4 pb-[max(1rem,env(safe-area-inset-bottom))] pt-[max(6vh,env(safe-area-inset-top))]">
+      <div className="absolute right-3 top-3 z-30 pt-[env(safe-area-inset-top)] pr-[env(safe-area-inset-right)] sm:right-4 sm:top-4">
+        <VolumeButton />
+      </div>
+
       <h1 className="title-mark text-center">
         Little
         <br />

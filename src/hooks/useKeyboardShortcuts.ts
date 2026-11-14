@@ -56,6 +56,9 @@ export function useKeyboardShortcuts() {
         case 'm':
           s.toggleDecor();
           break;
+        case 'v':
+          s.updateAudioSettings({ muted: !s.audioSettings.muted });
+          break;
         default:
           return;
       }

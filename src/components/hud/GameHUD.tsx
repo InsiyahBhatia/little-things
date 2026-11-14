@@ -3,6 +3,7 @@
 import { Backpack, BookOpen, Lamp, Menu, Moon, Sun, Sunrise, Sunset } from 'lucide-react';
 import { useGameStore } from '@/store/gameStore';
 import { CoinIcon } from '@/components/ui/CoinIcon';
+import { VolumeButton } from '@/components/ui/VolumeButton';
 import type { TimeOfDay } from '@/game/systems/GameClock';
 
 const PHASE_ICON: Record<TimeOfDay, typeof Sun> = { dawn: Sunrise, day: Sun, dusk: Sunset, night: Moon };
@@ -44,23 +45,28 @@ export function GameHUD() {
           </p>
         </div>
 
-        <div className="plaque flex shrink-0 flex-col items-end px-3 py-1.5">
-          <p className="flex items-center gap-2 font-display text-xl leading-none" aria-label={`${petals} coins`}>
-            <CoinIcon size={18} />
-            <span className="tabular-nums">{petals}</span>
-          </p>
-          <div className="mt-1.5 w-24 text-right sm:w-32">
-            <p className="text-sm leading-tight text-paper/85">{reputation.title}</p>
-            <div
-              className="mt-1 h-1.5 bg-ink"
-              role="progressbar"
-              aria-label="Progress to the next reputation level"
-              aria-valuemin={0}
-              aria-valuemax={100}
-              aria-valuenow={Math.round(progress * 100)}
-            >
-              <div className="h-full bg-honey" style={{ width: `${progress * 100}%` }} />
+        <div className="flex shrink-0 items-start gap-2">
+          <div className="plaque flex flex-col items-end px-3 py-1.5">
+            <p className="flex items-center gap-2 font-display text-xl leading-none" aria-label={`${petals} coins`}>
+              <CoinIcon size={18} />
+              <span className="tabular-nums">{petals}</span>
+            </p>
+            <div className="mt-1.5 w-24 text-right sm:w-32">
+              <p className="text-sm leading-tight text-paper/85">{reputation.title}</p>
+              <div
+                className="mt-1 h-1.5 bg-ink"
+                role="progressbar"
+                aria-label="Progress to the next reputation level"
+                aria-valuemin={0}
+                aria-valuemax={100}
+                aria-valuenow={Math.round(progress * 100)}
+              >
+                <div className="h-full bg-honey" style={{ width: `${progress * 100}%` }} />
+              </div>
             </div>
+          </div>
+          <div className="pointer-events-auto">
+            <VolumeButton />
           </div>
         </div>
       </div>

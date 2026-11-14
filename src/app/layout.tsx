@@ -6,22 +6,36 @@ const TITLE = 'Little Things';
 const DESCRIPTION =
   'Run a tiny potion shop in the village of Mallowmere. Pick flowers, brew potions and serve curious customers in this cosy pixel-art game.';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL;
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://insiyahbhatia.github.io/little-things';
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
 
 export const metadata: Metadata = {
-  metadataBase: siteUrl ? new URL(siteUrl) : undefined,
+  metadataBase: new URL(siteUrl),
   title: TITLE,
   description: DESCRIPTION,
   applicationName: TITLE,
   manifest: `${basePath}/manifest.webmanifest`,
   openGraph: {
     type: 'website',
+    url: siteUrl,
+    siteName: TITLE,
     title: TITLE,
     description: DESCRIPTION,
-    images: [{ url: `${basePath}/og-image.png`, width: 1280, height: 720, alt: 'The Little Things title screen' }],
+    images: [
+      {
+        url: `${basePath}/og-image.png`,
+        width: 1280,
+        height: 720,
+        alt: 'Little Things - A cosy pixel-art potion shop game',
+      },
+    ],
   },
-  twitter: { card: 'summary_large_image', title: TITLE, description: DESCRIPTION },
+  twitter: {
+    card: 'summary_large_image',
+    title: TITLE,
+    description: DESCRIPTION,
+    images: [`${basePath}/og-image.png`],
+  },
   appleWebApp: { capable: true, title: TITLE, statusBarStyle: 'black-translucent' },
 };
 

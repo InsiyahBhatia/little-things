@@ -12,8 +12,8 @@ export interface AudioSettings {
 
 export const DEFAULT_AUDIO_SETTINGS: AudioSettings = {
   muted: false,
-  musicVolume: 0.6,
-  sfxVolume: 0.8,
+  musicVolume: 0.35,
+  sfxVolume: 0.5,
 };
 
 function clamp01(value: unknown, fallback: number): number {

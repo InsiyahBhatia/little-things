@@ -9,8 +9,11 @@ const DESCRIPTION =
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://insiyahbhatia.github.io/little-things';
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
 
+// metadataBase must be the domain origin so Next.js doesn't duplicate basePath in file-based og images
+const metadataBaseOrigin = new URL(siteUrl).origin;
+
 export const metadata: Metadata = {
-  metadataBase: new URL(siteUrl),
+  metadataBase: new URL(metadataBaseOrigin),
   title: TITLE,
   description: DESCRIPTION,
   applicationName: TITLE,

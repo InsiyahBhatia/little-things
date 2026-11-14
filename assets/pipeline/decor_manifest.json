@@ -1,0 +1,30 @@
+[
+  {
+    "id": "crystal_ball",
+    "name": "Crystal Ball",
+    "desc": "A swirling glass orb that predicts visitor wishes",
+    "price": 65,
+    "sprite": "decor/decor_crystal_ball.png"
+  },
+  {
+    "id": "gramophone",
+    "name": "Enchanted Gramophone",
+    "desc": "Plays cheerful 16-bit melodies for visitors",
+    "price": 90,
+    "sprite": "decor/decor_gramophone.png"
+  },
+  {
+    "id": "mailbox",
+    "name": "Cottage Mailbox",
+    "desc": "A sweet wooden box for village correspondence",
+    "price": 40,
+    "sprite": "decor/decor_mailbox.png"
+  },
+  {
+    "id": "fairy_lantern",
+    "name": "Fairy Lantern",
+    "desc": "Casts a gentle lavender glow across the room",
+    "price": 50,
+    "sprite": "decor/decor_fairy_lantern.png"
+  }
+]

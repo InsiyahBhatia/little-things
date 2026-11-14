@@ -1,0 +1,5286 @@
+{
+  "cozy_pixel-art_witchy_shop_asset_sheet": [
+    {
+      "index": 5,
+      "name": "sprite_005_404x258.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_005_404x258.png",
+      "orig_x": 8,
+      "orig_y": 23,
+      "width": 404,
+      "height": 258,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 3,
+      "name": "sprite_003_213x264.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_003_213x264.png",
+      "orig_x": 419,
+      "orig_y": 16,
+      "width": 213,
+      "height": 264,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 2,
+      "name": "sprite_002_184x267.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_002_184x267.png",
+      "orig_x": 646,
+      "orig_y": 14,
+      "width": 184,
+      "height": 267,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 1,
+      "name": "sprite_001_264x273.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_001_264x273.png",
+      "orig_x": 837,
+      "orig_y": 7,
+      "width": 264,
+      "height": 273,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 0,
+      "name": "sprite_000_226x275.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_000_226x275.png",
+      "orig_x": 1105,
+      "orig_y": 4,
+      "width": 226,
+      "height": 275,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 4,
+      "name": "sprite_004_186x265.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_004_186x265.png",
+      "orig_x": 1341,
+      "orig_y": 21,
+      "width": 186,
+      "height": 265,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 7,
+      "name": "sprite_007_185x191.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_007_185x191.png",
+      "orig_x": 33,
+      "orig_y": 301,
+      "width": 185,
+      "height": 191,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 8,
+      "name": "sprite_008_288x171.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_008_288x171.png",
+      "orig_x": 239,
+      "orig_y": 301,
+      "width": 288,
+      "height": 171,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 6,
+      "name": "sprite_006_218x170.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_006_218x170.png",
+      "orig_x": 700,
+      "orig_y": 294,
+      "width": 218,
+      "height": 170,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 9,
+      "name": "sprite_009_153x170.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_009_153x170.png",
+      "orig_x": 1055,
+      "orig_y": 302,
+      "width": 153,
+      "height": 170,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 10,
+      "name": "sprite_010_108x160.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_010_108x160.png",
+      "orig_x": 1228,
+      "orig_y": 309,
+      "width": 108,
+      "height": 160,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 11,
+      "name": "sprite_011_131x137.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_011_131x137.png",
+      "orig_x": 547,
+      "orig_y": 323,
+      "width": 131,
+      "height": 137,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 12,
+      "name": "sprite_012_89x84.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_012_89x84.png",
+      "orig_x": 1390,
+      "orig_y": 340,
+      "width": 89,
+      "height": 84,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 13,
+      "name": "sprite_013_85x93.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_013_85x93.png",
+      "orig_x": 948,
+      "orig_y": 362,
+      "width": 85,
+      "height": 93,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 14,
+      "name": "sprite_014_209x225.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_014_209x225.png",
+      "orig_x": 1309,
+      "orig_y": 447,
+      "width": 209,
+      "height": 225,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 21,
+      "name": "sprite_021_160x151.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_021_160x151.png",
+      "orig_x": 146,
+      "orig_y": 502,
+      "width": 160,
+      "height": 151,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 22,
+      "name": "sprite_022_118x149.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_022_118x149.png",
+      "orig_x": 314,
+      "orig_y": 504,
+      "width": 118,
+      "height": 149,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 19,
+      "name": "sprite_019_138x154.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_019_138x154.png",
+      "orig_x": 439,
+      "orig_y": 499,
+      "width": 138,
+      "height": 154,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 24,
+      "name": "sprite_024_69x132.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_024_69x132.png",
+      "orig_x": 584,
+      "orig_y": 512,
+      "width": 69,
+      "height": 132,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 15,
+      "name": "sprite_015_92x175.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_015_92x175.png",
+      "orig_x": 662,
+      "orig_y": 487,
+      "width": 92,
+      "height": 175,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 20,
+      "name": "sprite_020_159x147.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_020_159x147.png",
+      "orig_x": 753,
+      "orig_y": 500,
+      "width": 159,
+      "height": 147,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 23,
+      "name": "sprite_023_82x136.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_023_82x136.png",
+      "orig_x": 924,
+      "orig_y": 511,
+      "width": 82,
+      "height": 136,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 16,
+      "name": "sprite_016_48x161.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_016_48x161.png",
+      "orig_x": 1025,
+      "orig_y": 492,
+      "width": 48,
+      "height": 161,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 17,
+      "name": "sprite_017_85x170.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_017_85x170.png",
+      "orig_x": 1090,
+      "orig_y": 496,
+      "width": 85,
+      "height": 170,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 18,
+      "name": "sprite_018_111x170.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_018_111x170.png",
+      "orig_x": 1187,
+      "orig_y": 495,
+      "width": 111,
+      "height": 170,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 25,
+      "name": "sprite_025_130x145.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_025_130x145.png",
+      "orig_x": 14,
+      "orig_y": 520,
+      "width": 130,
+      "height": 145,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 27,
+      "name": "sprite_027_109x148.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_027_109x148.png",
+      "orig_x": 560,
+      "orig_y": 677,
+      "width": 109,
+      "height": 148,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 26,
+      "name": "sprite_026_104x153.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_026_104x153.png",
+      "orig_x": 685,
+      "orig_y": 672,
+      "width": 104,
+      "height": 153,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 32,
+      "name": "sprite_032_129x112.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_032_129x112.png",
+      "orig_x": 16,
+      "orig_y": 702,
+      "width": 129,
+      "height": 112,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 33,
+      "name": "sprite_033_143x111.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_033_143x111.png",
+      "orig_x": 159,
+      "orig_y": 705,
+      "width": 143,
+      "height": 111,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 34,
+      "name": "sprite_034_104x105.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_034_104x105.png",
+      "orig_x": 313,
+      "orig_y": 705,
+      "width": 104,
+      "height": 105,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 30,
+      "name": "sprite_030_130x126.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_030_130x126.png",
+      "orig_x": 419,
+      "orig_y": 696,
+      "width": 130,
+      "height": 126,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 31,
+      "name": "sprite_031_178x108.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_031_178x108.png",
+      "orig_x": 791,
+      "orig_y": 700,
+      "width": 178,
+      "height": 108,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 28,
+      "name": "sprite_028_99x144.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_028_99x144.png",
+      "orig_x": 1116,
+      "orig_y": 690,
+      "width": 99,
+      "height": 144,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 35,
+      "name": "sprite_035_85x90.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_035_85x90.png",
+      "orig_x": 1214,
+      "orig_y": 710,
+      "width": 85,
+      "height": 90,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 29,
+      "name": "sprite_029_119x124.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_029_119x124.png",
+      "orig_x": 1312,
+      "orig_y": 692,
+      "width": 119,
+      "height": 124,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 36,
+      "name": "sprite_036_82x87.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_036_82x87.png",
+      "orig_x": 1442,
+      "orig_y": 716,
+      "width": 82,
+      "height": 87,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 37,
+      "name": "sprite_037_143x87.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_037_143x87.png",
+      "orig_x": 975,
+      "orig_y": 720,
+      "width": 143,
+      "height": 87,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 39,
+      "name": "sprite_039_189x170.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_039_189x170.png",
+      "orig_x": 17,
+      "orig_y": 839,
+      "width": 189,
+      "height": 170,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 38,
+      "name": "sprite_038_132x159.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_038_132x159.png",
+      "orig_x": 400,
+      "orig_y": 836,
+      "width": 132,
+      "height": 159,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 40,
+      "name": "sprite_040_99x161.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_040_99x161.png",
+      "orig_x": 1228,
+      "orig_y": 839,
+      "width": 99,
+      "height": 161,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 41,
+      "name": "sprite_041_160x160.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_041_160x160.png",
+      "orig_x": 224,
+      "orig_y": 849,
+      "width": 160,
+      "height": 160,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 45,
+      "name": "sprite_045_110x136.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_045_110x136.png",
+      "orig_x": 538,
+      "orig_y": 873,
+      "width": 110,
+      "height": 136,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 42,
+      "name": "sprite_042_139x144.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_042_139x144.png",
+      "orig_x": 655,
+      "orig_y": 857,
+      "width": 139,
+      "height": 144,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 43,
+      "name": "sprite_043_90x130.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_043_90x130.png",
+      "orig_x": 803,
+      "orig_y": 870,
+      "width": 90,
+      "height": 130,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 46,
+      "name": "sprite_046_85x127.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_046_85x127.png",
+      "orig_x": 904,
+      "orig_y": 874,
+      "width": 85,
+      "height": 127,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 44,
+      "name": "sprite_044_51x129.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_044_51x129.png",
+      "orig_x": 1083,
+      "orig_y": 872,
+      "width": 51,
+      "height": 129,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 48,
+      "name": "sprite_048_72x110.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_048_72x110.png",
+      "orig_x": 998,
+      "orig_y": 885,
+      "width": 72,
+      "height": 110,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 49,
+      "name": "sprite_049_67x90.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_049_67x90.png",
+      "orig_x": 1148,
+      "orig_y": 911,
+      "width": 67,
+      "height": 90,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 47,
+      "name": "sprite_047_171x115.png",
+      "category": "cozy_pixel-art_witchy_shop_asset_sheet",
+      "path": "D:\\little-things\\assets\\processed\\cozy_pixel-art_witchy_shop_asset_sheet\\sprite_047_171x115.png",
+      "orig_x": 1342,
+      "orig_y": 880,
+      "width": 171,
+      "height": 115,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    }
+  ],
+  "little_things__enchanted_sprite_collection": [
+    {
+      "index": 0,
+      "name": "sprite_000_287x283.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_000_287x283.png",
+      "orig_x": 11,
+      "orig_y": 12,
+      "width": 287,
+      "height": 283,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 4,
+      "name": "sprite_004_83x112.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_004_83x112.png",
+      "orig_x": 849,
+      "orig_y": 26,
+      "width": 83,
+      "height": 112,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 1,
+      "name": "sprite_001_78x112.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_001_78x112.png",
+      "orig_x": 954,
+      "orig_y": 26,
+      "width": 78,
+      "height": 112,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 2,
+      "name": "sprite_002_79x110.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_002_79x110.png",
+      "orig_x": 1053,
+      "orig_y": 26,
+      "width": 79,
+      "height": 110,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 3,
+      "name": "sprite_003_77x112.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_003_77x112.png",
+      "orig_x": 1152,
+      "orig_y": 26,
+      "width": 77,
+      "height": 112,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 5,
+      "name": "sprite_005_113x155.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_005_113x155.png",
+      "orig_x": 318,
+      "orig_y": 114,
+      "width": 113,
+      "height": 155,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 6,
+      "name": "sprite_006_104x153.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_006_104x153.png",
+      "orig_x": 443,
+      "orig_y": 116,
+      "width": 104,
+      "height": 153,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 7,
+      "name": "sprite_007_97x153.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_007_97x153.png",
+      "orig_x": 561,
+      "orig_y": 116,
+      "width": 97,
+      "height": 153,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 8,
+      "name": "sprite_008_107x153.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_008_107x153.png",
+      "orig_x": 674,
+      "orig_y": 116,
+      "width": 107,
+      "height": 153,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 11,
+      "name": "sprite_011_192x123.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_011_192x123.png",
+      "orig_x": 1124,
+      "orig_y": 153,
+      "width": 192,
+      "height": 123,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 10,
+      "name": "sprite_010_139x129.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_010_139x129.png",
+      "orig_x": 1367,
+      "orig_y": 147,
+      "width": 139,
+      "height": 129,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 9,
+      "name": "sprite_009_18x20.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_009_18x20.png",
+      "orig_x": 1477,
+      "orig_y": 146,
+      "width": 18,
+      "height": 20,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 13,
+      "name": "sprite_013_109x118.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_013_109x118.png",
+      "orig_x": 817,
+      "orig_y": 168,
+      "width": 109,
+      "height": 118,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 14,
+      "name": "sprite_014_16x20.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_014_16x20.png",
+      "orig_x": 928,
+      "orig_y": 185,
+      "width": 16,
+      "height": 20,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 12,
+      "name": "sprite_012_138x119.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_012_138x119.png",
+      "orig_x": 950,
+      "orig_y": 166,
+      "width": 138,
+      "height": 119,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 15,
+      "name": "sprite_015_61x46.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_015_61x46.png",
+      "orig_x": 1264,
+      "orig_y": 239,
+      "width": 61,
+      "height": 46,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 16,
+      "name": "sprite_016_239x228.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_016_239x228.png",
+      "orig_x": 10,
+      "orig_y": 318,
+      "width": 239,
+      "height": 228,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 18,
+      "name": "sprite_018_17x19.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_018_17x19.png",
+      "orig_x": 1241,
+      "orig_y": 392,
+      "width": 17,
+      "height": 19,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 17,
+      "name": "sprite_017_18x21.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_017_18x21.png",
+      "orig_x": 1341,
+      "orig_y": 391,
+      "width": 18,
+      "height": 21,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 19,
+      "name": "sprite_019_19x19.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_019_19x19.png",
+      "orig_x": 1481,
+      "orig_y": 398,
+      "width": 19,
+      "height": 19,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 21,
+      "name": "sprite_021_84x99.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_021_84x99.png",
+      "orig_x": 332,
+      "orig_y": 403,
+      "width": 84,
+      "height": 99,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 22,
+      "name": "sprite_022_109x98.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_022_109x98.png",
+      "orig_x": 444,
+      "orig_y": 405,
+      "width": 109,
+      "height": 98,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 20,
+      "name": "sprite_020_72x101.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_020_72x101.png",
+      "orig_x": 575,
+      "orig_y": 402,
+      "width": 72,
+      "height": 101,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 23,
+      "name": "sprite_023_105x98.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_023_105x98.png",
+      "orig_x": 672,
+      "orig_y": 405,
+      "width": 105,
+      "height": 98,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 28,
+      "name": "sprite_028_93x74.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_028_93x74.png",
+      "orig_x": 828,
+      "orig_y": 428,
+      "width": 93,
+      "height": 74,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 29,
+      "name": "sprite_029_89x80.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_029_89x80.png",
+      "orig_x": 937,
+      "orig_y": 429,
+      "width": 89,
+      "height": 80,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 27,
+      "name": "sprite_027_89x77.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_027_89x77.png",
+      "orig_x": 1043,
+      "orig_y": 427,
+      "width": 89,
+      "height": 77,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 24,
+      "name": "sprite_024_16x18.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_024_16x18.png",
+      "orig_x": 1218,
+      "orig_y": 413,
+      "width": 16,
+      "height": 18,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 26,
+      "name": "sprite_026_89x80.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_026_89x80.png",
+      "orig_x": 1289,
+      "orig_y": 423,
+      "width": 89,
+      "height": 80,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 25,
+      "name": "sprite_025_86x88.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_025_86x88.png",
+      "orig_x": 1421,
+      "orig_y": 415,
+      "width": 86,
+      "height": 88,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 30,
+      "name": "sprite_030_93x62.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_030_93x62.png",
+      "orig_x": 1161,
+      "orig_y": 441,
+      "width": 93,
+      "height": 62,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 31,
+      "name": "sprite_031_270x195.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_031_270x195.png",
+      "orig_x": 11,
+      "orig_y": 566,
+      "width": 270,
+      "height": 195,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 33,
+      "name": "sprite_033_32x41.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_033_32x41.png",
+      "orig_x": 17,
+      "orig_y": 575,
+      "width": 32,
+      "height": 41,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 32,
+      "name": "sprite_032_30x36.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_032_30x36.png",
+      "orig_x": 235,
+      "orig_y": 566,
+      "width": 30,
+      "height": 36,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 40,
+      "name": "sprite_040_95x94.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_040_95x94.png",
+      "orig_x": 328,
+      "orig_y": 620,
+      "width": 95,
+      "height": 94,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 39,
+      "name": "sprite_039_92x93.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_039_92x93.png",
+      "orig_x": 449,
+      "orig_y": 620,
+      "width": 92,
+      "height": 93,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 38,
+      "name": "sprite_038_83x93.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_038_83x93.png",
+      "orig_x": 567,
+      "orig_y": 618,
+      "width": 83,
+      "height": 93,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 41,
+      "name": "sprite_041_91x93.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_041_91x93.png",
+      "orig_x": 677,
+      "orig_y": 620,
+      "width": 91,
+      "height": 93,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 45,
+      "name": "sprite_045_82x78.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_045_82x78.png",
+      "orig_x": 806,
+      "orig_y": 626,
+      "width": 82,
+      "height": 78,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 42,
+      "name": "sprite_042_80x84.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_042_80x84.png",
+      "orig_x": 904,
+      "orig_y": 621,
+      "width": 80,
+      "height": 84,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 35,
+      "name": "sprite_035_83x78.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_035_83x78.png",
+      "orig_x": 1006,
+      "orig_y": 610,
+      "width": 83,
+      "height": 78,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 43,
+      "name": "sprite_043_82x84.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_043_82x84.png",
+      "orig_x": 1109,
+      "orig_y": 622,
+      "width": 82,
+      "height": 84,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 46,
+      "name": "sprite_046_17x21.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_046_17x21.png",
+      "orig_x": 1208,
+      "orig_y": 631,
+      "width": 17,
+      "height": 21,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 37,
+      "name": "sprite_037_93x91.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_037_93x91.png",
+      "orig_x": 1239,
+      "orig_y": 612,
+      "width": 93,
+      "height": 91,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 34,
+      "name": "sprite_034_21x14.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_034_21x14.png",
+      "orig_x": 1291,
+      "orig_y": 605,
+      "width": 21,
+      "height": 14,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 47,
+      "name": "sprite_047_144x108.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_047_144x108.png",
+      "orig_x": 1361,
+      "orig_y": 630,
+      "width": 144,
+      "height": 108,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 44,
+      "name": "sprite_044_15x17.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_044_15x17.png",
+      "orig_x": 1471,
+      "orig_y": 623,
+      "width": 15,
+      "height": 17,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 36,
+      "name": "sprite_036_15x16.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_036_15x16.png",
+      "orig_x": 1489,
+      "orig_y": 610,
+      "width": 15,
+      "height": 16,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 48,
+      "name": "sprite_048_17x20.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_048_17x20.png",
+      "orig_x": 1219,
+      "orig_y": 684,
+      "width": 17,
+      "height": 20,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 50,
+      "name": "sprite_050_64x21.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_050_64x21.png",
+      "orig_x": 1248,
+      "orig_y": 709,
+      "width": 64,
+      "height": 21,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 49,
+      "name": "sprite_049_14x16.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_049_14x16.png",
+      "orig_x": 1321,
+      "orig_y": 693,
+      "width": 14,
+      "height": 16,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 51,
+      "name": "sprite_051_261x236.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_051_261x236.png",
+      "orig_x": 11,
+      "orig_y": 778,
+      "width": 261,
+      "height": 236,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 53,
+      "name": "sprite_053_107x131.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_053_107x131.png",
+      "orig_x": 324,
+      "orig_y": 845,
+      "width": 107,
+      "height": 131,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 54,
+      "name": "sprite_054_94x131.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_054_94x131.png",
+      "orig_x": 447,
+      "orig_y": 845,
+      "width": 94,
+      "height": 131,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 55,
+      "name": "sprite_055_100x131.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_055_100x131.png",
+      "orig_x": 558,
+      "orig_y": 845,
+      "width": 100,
+      "height": 131,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 56,
+      "name": "sprite_056_93x131.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_056_93x131.png",
+      "orig_x": 674,
+      "orig_y": 845,
+      "width": 93,
+      "height": 131,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 61,
+      "name": "sprite_061_97x113.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_061_97x113.png",
+      "orig_x": 809,
+      "orig_y": 858,
+      "width": 97,
+      "height": 113,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 59,
+      "name": "sprite_059_98x114.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_059_98x114.png",
+      "orig_x": 923,
+      "orig_y": 857,
+      "width": 98,
+      "height": 114,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 60,
+      "name": "sprite_060_96x114.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_060_96x114.png",
+      "orig_x": 1039,
+      "orig_y": 857,
+      "width": 96,
+      "height": 114,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 58,
+      "name": "sprite_058_91x116.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_058_91x116.png",
+      "orig_x": 1152,
+      "orig_y": 855,
+      "width": 91,
+      "height": 116,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 63,
+      "name": "sprite_063_89x100.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_063_89x100.png",
+      "orig_x": 1271,
+      "orig_y": 870,
+      "width": 89,
+      "height": 100,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 52,
+      "name": "sprite_052_22x20.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_052_22x20.png",
+      "orig_x": 1299,
+      "orig_y": 841,
+      "width": 22,
+      "height": 20,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 57,
+      "name": "sprite_057_19x18.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_057_19x18.png",
+      "orig_x": 1339,
+      "orig_y": 853,
+      "width": 19,
+      "height": 18,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 64,
+      "name": "sprite_064_130x97.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_064_130x97.png",
+      "orig_x": 1393,
+      "orig_y": 872,
+      "width": 130,
+      "height": 97,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 62,
+      "name": "sprite_062_16x18.png",
+      "category": "little_things__enchanted_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\little_things__enchanted_sprite_collection\\sprite_062_16x18.png",
+      "orig_x": 1505,
+      "orig_y": 859,
+      "width": 16,
+      "height": 18,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    }
+  ],
+  "magical_pixel_art_potion_collection": [
+    {
+      "index": 5,
+      "name": "sprite_005_142x165.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_005_142x165.png",
+      "orig_x": 25,
+      "orig_y": 25,
+      "width": 142,
+      "height": 165,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 1,
+      "name": "sprite_001_138x169.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_001_138x169.png",
+      "orig_x": 193,
+      "orig_y": 21,
+      "width": 138,
+      "height": 169,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 0,
+      "name": "sprite_000_130x169.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_000_130x169.png",
+      "orig_x": 353,
+      "orig_y": 21,
+      "width": 130,
+      "height": 169,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 2,
+      "name": "sprite_002_135x169.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_002_135x169.png",
+      "orig_x": 516,
+      "orig_y": 22,
+      "width": 135,
+      "height": 169,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 8,
+      "name": "sprite_008_116x166.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_008_116x166.png",
+      "orig_x": 668,
+      "orig_y": 25,
+      "width": 116,
+      "height": 166,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 3,
+      "name": "sprite_003_117x168.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_003_117x168.png",
+      "orig_x": 811,
+      "orig_y": 23,
+      "width": 117,
+      "height": 168,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 6,
+      "name": "sprite_006_138x165.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_006_138x165.png",
+      "orig_x": 947,
+      "orig_y": 24,
+      "width": 138,
+      "height": 165,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 4,
+      "name": "sprite_004_123x167.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_004_123x167.png",
+      "orig_x": 1108,
+      "orig_y": 24,
+      "width": 123,
+      "height": 167,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 7,
+      "name": "sprite_007_123x166.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_007_123x166.png",
+      "orig_x": 1247,
+      "orig_y": 24,
+      "width": 123,
+      "height": 166,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 9,
+      "name": "sprite_009_124x163.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_009_124x163.png",
+      "orig_x": 1386,
+      "orig_y": 28,
+      "width": 124,
+      "height": 163,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 13,
+      "name": "sprite_013_158x161.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_013_158x161.png",
+      "orig_x": 26,
+      "orig_y": 214,
+      "width": 158,
+      "height": 161,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 11,
+      "name": "sprite_011_133x162.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_011_133x162.png",
+      "orig_x": 201,
+      "orig_y": 213,
+      "width": 133,
+      "height": 162,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 14,
+      "name": "sprite_014_128x160.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_014_128x160.png",
+      "orig_x": 360,
+      "orig_y": 215,
+      "width": 128,
+      "height": 160,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 10,
+      "name": "sprite_010_118x163.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_010_118x163.png",
+      "orig_x": 519,
+      "orig_y": 212,
+      "width": 118,
+      "height": 163,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 16,
+      "name": "sprite_016_130x160.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_016_130x160.png",
+      "orig_x": 665,
+      "orig_y": 215,
+      "width": 130,
+      "height": 160,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 15,
+      "name": "sprite_015_118x161.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_015_118x161.png",
+      "orig_x": 819,
+      "orig_y": 214,
+      "width": 118,
+      "height": 161,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 12,
+      "name": "sprite_012_115x160.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_012_115x160.png",
+      "orig_x": 963,
+      "orig_y": 213,
+      "width": 115,
+      "height": 160,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 17,
+      "name": "sprite_017_120x160.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_017_120x160.png",
+      "orig_x": 1103,
+      "orig_y": 215,
+      "width": 120,
+      "height": 160,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 18,
+      "name": "sprite_018_119x160.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_018_119x160.png",
+      "orig_x": 1248,
+      "orig_y": 215,
+      "width": 119,
+      "height": 160,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 19,
+      "name": "sprite_019_117x157.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_019_117x157.png",
+      "orig_x": 1393,
+      "orig_y": 218,
+      "width": 117,
+      "height": 157,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 20,
+      "name": "sprite_020_154x152.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_020_154x152.png",
+      "orig_x": 15,
+      "orig_y": 394,
+      "width": 154,
+      "height": 152,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 24,
+      "name": "sprite_024_131x149.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_024_131x149.png",
+      "orig_x": 342,
+      "orig_y": 397,
+      "width": 131,
+      "height": 149,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 25,
+      "name": "sprite_025_144x153.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_025_144x153.png",
+      "orig_x": 479,
+      "orig_y": 396,
+      "width": 144,
+      "height": 153,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 26,
+      "name": "sprite_026_138x142.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_026_138x142.png",
+      "orig_x": 785,
+      "orig_y": 396,
+      "width": 138,
+      "height": 142,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 21,
+      "name": "sprite_021_127x146.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_021_127x146.png",
+      "orig_x": 935,
+      "orig_y": 394,
+      "width": 127,
+      "height": 146,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 22,
+      "name": "sprite_022_130x153.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_022_130x153.png",
+      "orig_x": 1077,
+      "orig_y": 394,
+      "width": 130,
+      "height": 153,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 23,
+      "name": "sprite_023_130x148.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_023_130x148.png",
+      "orig_x": 1392,
+      "orig_y": 396,
+      "width": 130,
+      "height": 148,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 27,
+      "name": "sprite_027_140x145.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_027_140x145.png",
+      "orig_x": 187,
+      "orig_y": 400,
+      "width": 140,
+      "height": 145,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 28,
+      "name": "sprite_028_133x144.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_028_133x144.png",
+      "orig_x": 634,
+      "orig_y": 403,
+      "width": 133,
+      "height": 144,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 29,
+      "name": "sprite_029_156x129.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_029_156x129.png",
+      "orig_x": 1221,
+      "orig_y": 404,
+      "width": 156,
+      "height": 129,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 30,
+      "name": "sprite_030_119x125.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_030_119x125.png",
+      "orig_x": 781,
+      "orig_y": 554,
+      "width": 119,
+      "height": 125,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 31,
+      "name": "sprite_031_105x118.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_031_105x118.png",
+      "orig_x": 1025,
+      "orig_y": 559,
+      "width": 105,
+      "height": 118,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 34,
+      "name": "sprite_034_136x118.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_034_136x118.png",
+      "orig_x": 21,
+      "orig_y": 562,
+      "width": 136,
+      "height": 118,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 35,
+      "name": "sprite_035_136x117.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_035_136x117.png",
+      "orig_x": 173,
+      "orig_y": 562,
+      "width": 136,
+      "height": 117,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 38,
+      "name": "sprite_038_133x112.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_038_133x112.png",
+      "orig_x": 326,
+      "orig_y": 565,
+      "width": 133,
+      "height": 112,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 39,
+      "name": "sprite_039_125x111.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_039_125x111.png",
+      "orig_x": 477,
+      "orig_y": 566,
+      "width": 125,
+      "height": 111,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 40,
+      "name": "sprite_040_143x111.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_040_143x111.png",
+      "orig_x": 617,
+      "orig_y": 566,
+      "width": 143,
+      "height": 111,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 33,
+      "name": "sprite_033_75x115.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_033_75x115.png",
+      "orig_x": 927,
+      "orig_y": 562,
+      "width": 75,
+      "height": 115,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 36,
+      "name": "sprite_036_107x106.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_036_107x106.png",
+      "orig_x": 1152,
+      "orig_y": 562,
+      "width": 107,
+      "height": 106,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 37,
+      "name": "sprite_037_105x111.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_037_105x111.png",
+      "orig_x": 1270,
+      "orig_y": 562,
+      "width": 105,
+      "height": 111,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 32,
+      "name": "sprite_032_124x117.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_032_124x117.png",
+      "orig_x": 1388,
+      "orig_y": 561,
+      "width": 124,
+      "height": 117,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 45,
+      "name": "sprite_045_131x122.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_045_131x122.png",
+      "orig_x": 21,
+      "orig_y": 699,
+      "width": 131,
+      "height": 122,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 48,
+      "name": "sprite_048_135x111.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_048_135x111.png",
+      "orig_x": 176,
+      "orig_y": 702,
+      "width": 135,
+      "height": 111,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 49,
+      "name": "sprite_049_135x103.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_049_135x103.png",
+      "orig_x": 336,
+      "orig_y": 704,
+      "width": 135,
+      "height": 103,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 43,
+      "name": "sprite_043_140x116.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_043_140x116.png",
+      "orig_x": 494,
+      "orig_y": 697,
+      "width": 140,
+      "height": 116,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 46,
+      "name": "sprite_046_126x107.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_046_126x107.png",
+      "orig_x": 665,
+      "orig_y": 701,
+      "width": 126,
+      "height": 107,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 44,
+      "name": "sprite_044_102x113.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_044_102x113.png",
+      "orig_x": 816,
+      "orig_y": 697,
+      "width": 102,
+      "height": 113,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 42,
+      "name": "sprite_042_105x122.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_042_105x122.png",
+      "orig_x": 945,
+      "orig_y": 689,
+      "width": 105,
+      "height": 122,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 47,
+      "name": "sprite_047_129x118.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_047_129x118.png",
+      "orig_x": 1068,
+      "orig_y": 701,
+      "width": 129,
+      "height": 118,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 50,
+      "name": "sprite_050_136x93.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_050_136x93.png",
+      "orig_x": 1232,
+      "orig_y": 712,
+      "width": 136,
+      "height": 93,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 41,
+      "name": "sprite_041_126x120.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_041_126x120.png",
+      "orig_x": 1386,
+      "orig_y": 687,
+      "width": 126,
+      "height": 120,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 53,
+      "name": "sprite_053_124x156.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_053_124x156.png",
+      "orig_x": 460,
+      "orig_y": 834,
+      "width": 124,
+      "height": 156,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 55,
+      "name": "sprite_055_142x153.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_055_142x153.png",
+      "orig_x": 602,
+      "orig_y": 838,
+      "width": 142,
+      "height": 153,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 51,
+      "name": "sprite_051_102x179.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_051_102x179.png",
+      "orig_x": 961,
+      "orig_y": 819,
+      "width": 102,
+      "height": 179,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 52,
+      "name": "sprite_052_113x172.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_052_113x172.png",
+      "orig_x": 1249,
+      "orig_y": 824,
+      "width": 113,
+      "height": 172,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 54,
+      "name": "sprite_054_98x155.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_054_98x155.png",
+      "orig_x": 1398,
+      "orig_y": 835,
+      "width": 98,
+      "height": 155,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 60,
+      "name": "sprite_060_108x130.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_060_108x130.png",
+      "orig_x": 31,
+      "orig_y": 855,
+      "width": 108,
+      "height": 130,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 59,
+      "name": "sprite_059_116x130.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_059_116x130.png",
+      "orig_x": 154,
+      "orig_y": 850,
+      "width": 116,
+      "height": 130,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 57,
+      "name": "sprite_057_155x142.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_057_155x142.png",
+      "orig_x": 284,
+      "orig_y": 846,
+      "width": 155,
+      "height": 142,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 58,
+      "name": "sprite_058_196x140.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_058_196x140.png",
+      "orig_x": 751,
+      "orig_y": 847,
+      "width": 196,
+      "height": 140,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 56,
+      "name": "sprite_056_136x150.png",
+      "category": "magical_pixel_art_potion_collection",
+      "path": "D:\\little-things\\assets\\processed\\magical_pixel_art_potion_collection\\sprite_056_136x150.png",
+      "orig_x": 1089,
+      "orig_y": 844,
+      "width": 136,
+      "height": 150,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    }
+  ],
+  "mallowmere_fantasy_pixel_tileset": [
+    {
+      "index": 0,
+      "name": "sprite_000_327x165.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_000_327x165.png",
+      "orig_x": 5,
+      "orig_y": 6,
+      "width": 327,
+      "height": 165,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 3,
+      "name": "sprite_003_159x243.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_003_159x243.png",
+      "orig_x": 341,
+      "orig_y": 8,
+      "width": 159,
+      "height": 243,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 4,
+      "name": "sprite_004_179x242.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_004_179x242.png",
+      "orig_x": 512,
+      "orig_y": 9,
+      "width": 179,
+      "height": 242,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 9,
+      "name": "sprite_009_69x163.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_009_69x163.png",
+      "orig_x": 512,
+      "orig_y": 9,
+      "width": 69,
+      "height": 163,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 5,
+      "name": "sprite_005_74x242.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_005_74x242.png",
+      "orig_x": 695,
+      "orig_y": 9,
+      "width": 74,
+      "height": 242,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 1,
+      "name": "sprite_001_79x245.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_001_79x245.png",
+      "orig_x": 783,
+      "orig_y": 6,
+      "width": 79,
+      "height": 245,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 2,
+      "name": "sprite_002_80x244.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_002_80x244.png",
+      "orig_x": 866,
+      "orig_y": 7,
+      "width": 80,
+      "height": 244,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 6,
+      "name": "sprite_006_216x165.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_006_216x165.png",
+      "orig_x": 972,
+      "orig_y": 8,
+      "width": 216,
+      "height": 165,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 7,
+      "name": "sprite_007_100x84.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_007_100x84.png",
+      "orig_x": 1192,
+      "orig_y": 8,
+      "width": 100,
+      "height": 84,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 10,
+      "name": "sprite_010_79x64.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_010_79x64.png",
+      "orig_x": 1300,
+      "orig_y": 9,
+      "width": 79,
+      "height": 64,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 11,
+      "name": "sprite_011_42x30.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_011_42x30.png",
+      "orig_x": 1375,
+      "orig_y": 17,
+      "width": 42,
+      "height": 30,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 8,
+      "name": "sprite_008_96x53.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_008_96x53.png",
+      "orig_x": 1422,
+      "orig_y": 8,
+      "width": 96,
+      "height": 53,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 15,
+      "name": "sprite_015_40x28.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_015_40x28.png",
+      "orig_x": 1302,
+      "orig_y": 67,
+      "width": 40,
+      "height": 28,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 14,
+      "name": "sprite_014_40x29.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_014_40x29.png",
+      "orig_x": 1374,
+      "orig_y": 65,
+      "width": 40,
+      "height": 29,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 12,
+      "name": "sprite_012_41x29.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_012_41x29.png",
+      "orig_x": 1414,
+      "orig_y": 44,
+      "width": 41,
+      "height": 29,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 16,
+      "name": "sprite_016_33x24.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_016_33x24.png",
+      "orig_x": 1453,
+      "orig_y": 68,
+      "width": 33,
+      "height": 24,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 13,
+      "name": "sprite_013_33x25.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_013_33x25.png",
+      "orig_x": 1491,
+      "orig_y": 62,
+      "width": 33,
+      "height": 25,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 17,
+      "name": "sprite_017_64x77.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_017_64x77.png",
+      "orig_x": 1042,
+      "orig_y": 96,
+      "width": 64,
+      "height": 77,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 18,
+      "name": "sprite_018_106x143.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_018_106x143.png",
+      "orig_x": 1203,
+      "orig_y": 99,
+      "width": 106,
+      "height": 143,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 19,
+      "name": "sprite_019_94x139.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_019_94x139.png",
+      "orig_x": 1318,
+      "orig_y": 101,
+      "width": 94,
+      "height": 139,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 20,
+      "name": "sprite_020_110x139.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_020_110x139.png",
+      "orig_x": 1420,
+      "orig_y": 100,
+      "width": 110,
+      "height": 139,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 21,
+      "name": "sprite_021_77x74.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_021_77x74.png",
+      "orig_x": 8,
+      "orig_y": 177,
+      "width": 77,
+      "height": 74,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 22,
+      "name": "sprite_022_72x74.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_022_72x74.png",
+      "orig_x": 92,
+      "orig_y": 176,
+      "width": 72,
+      "height": 74,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 23,
+      "name": "sprite_023_70x73.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_023_70x73.png",
+      "orig_x": 173,
+      "orig_y": 178,
+      "width": 70,
+      "height": 73,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 24,
+      "name": "sprite_024_75x73.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_024_75x73.png",
+      "orig_x": 250,
+      "orig_y": 178,
+      "width": 75,
+      "height": 73,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 27,
+      "name": "sprite_027_50x39.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_027_50x39.png",
+      "orig_x": 975,
+      "orig_y": 193,
+      "width": 50,
+      "height": 39,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 25,
+      "name": "sprite_025_66x49.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_025_66x49.png",
+      "orig_x": 1031,
+      "orig_y": 186,
+      "width": 66,
+      "height": 49,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 26,
+      "name": "sprite_026_89x50.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_026_89x50.png",
+      "orig_x": 1109,
+      "orig_y": 191,
+      "width": 89,
+      "height": 50,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 29,
+      "name": "sprite_029_149x185.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_029_149x185.png",
+      "orig_x": 8,
+      "orig_y": 265,
+      "width": 149,
+      "height": 185,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 30,
+      "name": "sprite_030_159x97.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_030_159x97.png",
+      "orig_x": 168,
+      "orig_y": 265,
+      "width": 159,
+      "height": 97,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 31,
+      "name": "sprite_031_164x171.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_031_164x171.png",
+      "orig_x": 327,
+      "orig_y": 264,
+      "width": 164,
+      "height": 171,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 36,
+      "name": "sprite_036_141x155.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_036_141x155.png",
+      "orig_x": 502,
+      "orig_y": 268,
+      "width": 141,
+      "height": 155,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 28,
+      "name": "sprite_028_142x144.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_028_142x144.png",
+      "orig_x": 654,
+      "orig_y": 262,
+      "width": 142,
+      "height": 144,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 32,
+      "name": "sprite_032_90x65.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_032_90x65.png",
+      "orig_x": 814,
+      "orig_y": 265,
+      "width": 90,
+      "height": 65,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 33,
+      "name": "sprite_033_91x65.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_033_91x65.png",
+      "orig_x": 917,
+      "orig_y": 265,
+      "width": 91,
+      "height": 65,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 34,
+      "name": "sprite_034_87x70.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_034_87x70.png",
+      "orig_x": 1022,
+      "orig_y": 265,
+      "width": 87,
+      "height": 70,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 35,
+      "name": "sprite_035_158x71.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_035_158x71.png",
+      "orig_x": 1120,
+      "orig_y": 265,
+      "width": 158,
+      "height": 71,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 38,
+      "name": "sprite_038_130x87.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_038_130x87.png",
+      "orig_x": 1290,
+      "orig_y": 274,
+      "width": 130,
+      "height": 87,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 37,
+      "name": "sprite_037_86x100.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_037_86x100.png",
+      "orig_x": 1435,
+      "orig_y": 268,
+      "width": 86,
+      "height": 100,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 40,
+      "name": "sprite_040_86x87.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_040_86x87.png",
+      "orig_x": 166,
+      "orig_y": 349,
+      "width": 86,
+      "height": 87,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 41,
+      "name": "sprite_041_83x64.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_041_83x64.png",
+      "orig_x": 810,
+      "orig_y": 354,
+      "width": 83,
+      "height": 64,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 39,
+      "name": "sprite_039_148x84.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_039_148x84.png",
+      "orig_x": 909,
+      "orig_y": 345,
+      "width": 148,
+      "height": 84,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 42,
+      "name": "sprite_042_173x75.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_042_173x75.png",
+      "orig_x": 1073,
+      "orig_y": 357,
+      "width": 173,
+      "height": 75,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 43,
+      "name": "sprite_043_56x82.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_043_56x82.png",
+      "orig_x": 263,
+      "orig_y": 368,
+      "width": 56,
+      "height": 82,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 44,
+      "name": "sprite_044_38x130.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_044_38x130.png",
+      "orig_x": 1256,
+      "orig_y": 368,
+      "width": 38,
+      "height": 130,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 45,
+      "name": "sprite_045_54x125.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_045_54x125.png",
+      "orig_x": 1320,
+      "orig_y": 373,
+      "width": 54,
+      "height": 125,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 46,
+      "name": "sprite_046_71x119.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_046_71x119.png",
+      "orig_x": 1389,
+      "orig_y": 375,
+      "width": 71,
+      "height": 119,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 47,
+      "name": "sprite_047_60x116.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_047_60x116.png",
+      "orig_x": 1473,
+      "orig_y": 376,
+      "width": 60,
+      "height": 116,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 49,
+      "name": "sprite_049_54x36.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_049_54x36.png",
+      "orig_x": 673,
+      "orig_y": 418,
+      "width": 54,
+      "height": 36,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 48,
+      "name": "sprite_048_34x25.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_048_34x25.png",
+      "orig_x": 736,
+      "orig_y": 417,
+      "width": 34,
+      "height": 25,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 50,
+      "name": "sprite_050_66x40.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_050_66x40.png",
+      "orig_x": 768,
+      "orig_y": 426,
+      "width": 66,
+      "height": 40,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 51,
+      "name": "sprite_051_293x258.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_051_293x258.png",
+      "orig_x": 7,
+      "orig_y": 446,
+      "width": 293,
+      "height": 258,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 53,
+      "name": "sprite_053_236x250.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_053_236x250.png",
+      "orig_x": 301,
+      "orig_y": 454,
+      "width": 236,
+      "height": 250,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 52,
+      "name": "sprite_052_263x249.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_052_263x249.png",
+      "orig_x": 544,
+      "orig_y": 453,
+      "width": 263,
+      "height": 249,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 54,
+      "name": "sprite_054_148x100.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_054_148x100.png",
+      "orig_x": 817,
+      "orig_y": 458,
+      "width": 148,
+      "height": 100,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 55,
+      "name": "sprite_055_102x91.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_055_102x91.png",
+      "orig_x": 962,
+      "orig_y": 467,
+      "width": 102,
+      "height": 91,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 56,
+      "name": "sprite_056_99x107.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_056_99x107.png",
+      "orig_x": 1060,
+      "orig_y": 468,
+      "width": 99,
+      "height": 107,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 57,
+      "name": "sprite_057_93x110.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_057_93x110.png",
+      "orig_x": 1156,
+      "orig_y": 468,
+      "width": 93,
+      "height": 110,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 58,
+      "name": "sprite_058_182x115.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_058_182x115.png",
+      "orig_x": 1258,
+      "orig_y": 509,
+      "width": 182,
+      "height": 115,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 59,
+      "name": "sprite_059_118x102.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_059_118x102.png",
+      "orig_x": 1418,
+      "orig_y": 512,
+      "width": 118,
+      "height": 102,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 61,
+      "name": "sprite_061_141x80.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_061_141x80.png",
+      "orig_x": 815,
+      "orig_y": 572,
+      "width": 141,
+      "height": 80,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 60,
+      "name": "sprite_060_99x84.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_060_99x84.png",
+      "orig_x": 952,
+      "orig_y": 568,
+      "width": 99,
+      "height": 84,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 62,
+      "name": "sprite_062_55x76.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_062_55x76.png",
+      "orig_x": 1064,
+      "orig_y": 586,
+      "width": 55,
+      "height": 76,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 63,
+      "name": "sprite_063_50x61.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_063_50x61.png",
+      "orig_x": 1145,
+      "orig_y": 592,
+      "width": 50,
+      "height": 61,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 64,
+      "name": "sprite_064_46x52.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_064_46x52.png",
+      "orig_x": 1205,
+      "orig_y": 610,
+      "width": 46,
+      "height": 52,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 65,
+      "name": "sprite_065_167x128.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_065_167x128.png",
+      "orig_x": 1367,
+      "orig_y": 635,
+      "width": 167,
+      "height": 128,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 67,
+      "name": "sprite_067_93x105.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_067_93x105.png",
+      "orig_x": 850,
+      "orig_y": 664,
+      "width": 93,
+      "height": 105,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 70,
+      "name": "sprite_070_89x100.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_070_89x100.png",
+      "orig_x": 958,
+      "orig_y": 666,
+      "width": 89,
+      "height": 100,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 68,
+      "name": "sprite_068_96x103.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_068_96x103.png",
+      "orig_x": 1059,
+      "orig_y": 665,
+      "width": 96,
+      "height": 103,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 69,
+      "name": "sprite_069_100x99.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_069_100x99.png",
+      "orig_x": 1168,
+      "orig_y": 665,
+      "width": 100,
+      "height": 99,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 66,
+      "name": "sprite_066_73x95.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_066_73x95.png",
+      "orig_x": 1282,
+      "orig_y": 645,
+      "width": 73,
+      "height": 95,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 72,
+      "name": "sprite_072_87x122.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_072_87x122.png",
+      "orig_x": 552,
+      "orig_y": 717,
+      "width": 87,
+      "height": 122,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 71,
+      "name": "sprite_071_98x128.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_071_98x128.png",
+      "orig_x": 737,
+      "orig_y": 709,
+      "width": 98,
+      "height": 128,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 73,
+      "name": "sprite_073_99x115.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_073_99x115.png",
+      "orig_x": 1,
+      "orig_y": 720,
+      "width": 99,
+      "height": 115,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 77,
+      "name": "sprite_077_69x110.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_077_69x110.png",
+      "orig_x": 105,
+      "orig_y": 724,
+      "width": 69,
+      "height": 110,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 75,
+      "name": "sprite_075_74x114.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_075_74x114.png",
+      "orig_x": 187,
+      "orig_y": 721,
+      "width": 74,
+      "height": 114,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 76,
+      "name": "sprite_076_78x112.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_076_78x112.png",
+      "orig_x": 279,
+      "orig_y": 723,
+      "width": 78,
+      "height": 112,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 78,
+      "name": "sprite_078_78x112.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_078_78x112.png",
+      "orig_x": 368,
+      "orig_y": 723,
+      "width": 78,
+      "height": 112,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 79,
+      "name": "sprite_079_80x111.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_079_80x111.png",
+      "orig_x": 459,
+      "orig_y": 727,
+      "width": 80,
+      "height": 111,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 74,
+      "name": "sprite_074_76x119.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_074_76x119.png",
+      "orig_x": 650,
+      "orig_y": 720,
+      "width": 76,
+      "height": 119,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 85,
+      "name": "sprite_085_145x67.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_085_145x67.png",
+      "orig_x": 852,
+      "orig_y": 784,
+      "width": 145,
+      "height": 67,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 81,
+      "name": "sprite_081_75x69.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_081_75x69.png",
+      "orig_x": 1018,
+      "orig_y": 775,
+      "width": 75,
+      "height": 69,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 84,
+      "name": "sprite_084_49x62.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_084_49x62.png",
+      "orig_x": 1108,
+      "orig_y": 784,
+      "width": 49,
+      "height": 62,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 83,
+      "name": "sprite_083_80x64.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_083_80x64.png",
+      "orig_x": 1171,
+      "orig_y": 782,
+      "width": 80,
+      "height": 64,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 80,
+      "name": "sprite_080_134x173.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_080_134x173.png",
+      "orig_x": 1266,
+      "orig_y": 770,
+      "width": 134,
+      "height": 173,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 82,
+      "name": "sprite_082_121x88.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_082_121x88.png",
+      "orig_x": 1405,
+      "orig_y": 777,
+      "width": 121,
+      "height": 88,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 89,
+      "name": "sprite_089_80x78.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_089_80x78.png",
+      "orig_x": 10,
+      "orig_y": 856,
+      "width": 80,
+      "height": 78,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 86,
+      "name": "sprite_086_74x77.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_086_74x77.png",
+      "orig_x": 103,
+      "orig_y": 852,
+      "width": 74,
+      "height": 77,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 90,
+      "name": "sprite_090_130x154.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_090_130x154.png",
+      "orig_x": 185,
+      "orig_y": 856,
+      "width": 130,
+      "height": 154,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 92,
+      "name": "sprite_092_151x53.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_092_151x53.png",
+      "orig_x": 329,
+      "orig_y": 859,
+      "width": 151,
+      "height": 53,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 87,
+      "name": "sprite_087_84x58.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_087_84x58.png",
+      "orig_x": 497,
+      "orig_y": 854,
+      "width": 84,
+      "height": 58,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 91,
+      "name": "sprite_091_53x53.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_091_53x53.png",
+      "orig_x": 589,
+      "orig_y": 859,
+      "width": 53,
+      "height": 53,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 88,
+      "name": "sprite_088_170x153.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_088_170x153.png",
+      "orig_x": 633,
+      "orig_y": 855,
+      "width": 170,
+      "height": 153,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 93,
+      "name": "sprite_093_196x65.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_093_196x65.png",
+      "orig_x": 803,
+      "orig_y": 861,
+      "width": 196,
+      "height": 65,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 94,
+      "name": "sprite_094_138x66.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_094_138x66.png",
+      "orig_x": 1017,
+      "orig_y": 868,
+      "width": 138,
+      "height": 66,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 95,
+      "name": "sprite_095_97x59.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_095_97x59.png",
+      "orig_x": 1166,
+      "orig_y": 868,
+      "width": 97,
+      "height": 59,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 98,
+      "name": "sprite_098_161x101.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_098_161x101.png",
+      "orig_x": 460,
+      "orig_y": 917,
+      "width": 161,
+      "height": 101,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 97,
+      "name": "sprite_097_56x113.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_097_56x113.png",
+      "orig_x": 1407,
+      "orig_y": 896,
+      "width": 56,
+      "height": 113,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 96,
+      "name": "sprite_096_54x116.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_096_54x116.png",
+      "orig_x": 1470,
+      "orig_y": 891,
+      "width": 54,
+      "height": 116,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 104,
+      "name": "sprite_104_86x74.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_104_86x74.png",
+      "orig_x": 8,
+      "orig_y": 943,
+      "width": 86,
+      "height": 74,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 102,
+      "name": "sprite_102_63x77.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_102_63x77.png",
+      "orig_x": 108,
+      "orig_y": 939,
+      "width": 63,
+      "height": 77,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 99,
+      "name": "sprite_099_120x82.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_099_120x82.png",
+      "orig_x": 322,
+      "orig_y": 928,
+      "width": 120,
+      "height": 82,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 100,
+      "name": "sprite_100_98x79.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_100_98x79.png",
+      "orig_x": 819,
+      "orig_y": 929,
+      "width": 98,
+      "height": 79,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 101,
+      "name": "sprite_101_98x73.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_101_98x73.png",
+      "orig_x": 928,
+      "orig_y": 937,
+      "width": 98,
+      "height": 73,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 103,
+      "name": "sprite_103_65x71.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_103_65x71.png",
+      "orig_x": 1035,
+      "orig_y": 939,
+      "width": 65,
+      "height": 71,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 106,
+      "name": "sprite_106_67x63.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_106_67x63.png",
+      "orig_x": 1101,
+      "orig_y": 947,
+      "width": 67,
+      "height": 63,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 105,
+      "name": "sprite_105_55x67.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_105_55x67.png",
+      "orig_x": 1178,
+      "orig_y": 943,
+      "width": 55,
+      "height": 67,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 107,
+      "name": "sprite_107_56x61.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_107_56x61.png",
+      "orig_x": 1249,
+      "orig_y": 948,
+      "width": 56,
+      "height": 61,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 108,
+      "name": "sprite_108_76x58.png",
+      "category": "mallowmere_fantasy_pixel_tileset",
+      "path": "D:\\little-things\\assets\\processed\\mallowmere_fantasy_pixel_tileset\\sprite_108_76x58.png",
+      "orig_x": 1326,
+      "orig_y": 951,
+      "width": 76,
+      "height": 58,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    }
+  ],
+  "mallowmere_village__little_things_emporium": [
+    {
+      "id": "reference_full",
+      "file": "D:\\little-things\\assets\\processed\\mallowmere_village__little_things_emporium\\reference_full.png",
+      "width": 1672,
+      "height": 941,
+      "type": "scene_reference"
+    }
+  ],
+  "pastel_fantasy_nature_sprite_collection": [
+    {
+      "index": 0,
+      "name": "sprite_000_246x249.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_000_246x249.png",
+      "orig_x": 11,
+      "orig_y": 11,
+      "width": 246,
+      "height": 249,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 1,
+      "name": "sprite_001_200x243.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_001_200x243.png",
+      "orig_x": 261,
+      "orig_y": 11,
+      "width": 200,
+      "height": 243,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 2,
+      "name": "sprite_002_210x246.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_002_210x246.png",
+      "orig_x": 465,
+      "orig_y": 11,
+      "width": 210,
+      "height": 246,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 3,
+      "name": "sprite_003_196x246.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_003_196x246.png",
+      "orig_x": 683,
+      "orig_y": 12,
+      "width": 196,
+      "height": 246,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 4,
+      "name": "sprite_004_197x247.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_004_197x247.png",
+      "orig_x": 889,
+      "orig_y": 11,
+      "width": 197,
+      "height": 247,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 6,
+      "name": "sprite_006_191x244.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_006_191x244.png",
+      "orig_x": 1095,
+      "orig_y": 14,
+      "width": 191,
+      "height": 244,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 5,
+      "name": "sprite_005_229x242.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_005_229x242.png",
+      "orig_x": 1295,
+      "orig_y": 11,
+      "width": 229,
+      "height": 242,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 7,
+      "name": "sprite_007_20x19.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_007_20x19.png",
+      "orig_x": 64,
+      "orig_y": 192,
+      "width": 20,
+      "height": 19,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 8,
+      "name": "sprite_008_20x19.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_008_20x19.png",
+      "orig_x": 192,
+      "orig_y": 192,
+      "width": 20,
+      "height": 19,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 9,
+      "name": "sprite_009_21x17.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_009_21x17.png",
+      "orig_x": 34,
+      "orig_y": 220,
+      "width": 21,
+      "height": 17,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 11,
+      "name": "sprite_011_21x16.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_011_21x16.png",
+      "orig_x": 217,
+      "orig_y": 222,
+      "width": 21,
+      "height": 16,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 10,
+      "name": "sprite_010_30x18.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_010_30x18.png",
+      "orig_x": 632,
+      "orig_y": 221,
+      "width": 30,
+      "height": 18,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 12,
+      "name": "sprite_012_213x158.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_012_213x158.png",
+      "orig_x": 1308,
+      "orig_y": 267,
+      "width": 213,
+      "height": 158,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 13,
+      "name": "sprite_013_164x136.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_013_164x136.png",
+      "orig_x": 11,
+      "orig_y": 283,
+      "width": 164,
+      "height": 136,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 14,
+      "name": "sprite_014_141x134.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_014_141x134.png",
+      "orig_x": 185,
+      "orig_y": 283,
+      "width": 141,
+      "height": 134,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 15,
+      "name": "sprite_015_131x128.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_015_131x128.png",
+      "orig_x": 333,
+      "orig_y": 283,
+      "width": 131,
+      "height": 128,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 18,
+      "name": "sprite_018_118x121.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_018_118x121.png",
+      "orig_x": 473,
+      "orig_y": 286,
+      "width": 118,
+      "height": 121,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 16,
+      "name": "sprite_016_242x122.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_016_242x122.png",
+      "orig_x": 599,
+      "orig_y": 282,
+      "width": 242,
+      "height": 122,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 17,
+      "name": "sprite_017_121x118.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_017_121x118.png",
+      "orig_x": 850,
+      "orig_y": 284,
+      "width": 121,
+      "height": 118,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 19,
+      "name": "sprite_019_121x118.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_019_121x118.png",
+      "orig_x": 984,
+      "orig_y": 286,
+      "width": 121,
+      "height": 118,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 20,
+      "name": "sprite_020_173x126.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_020_173x126.png",
+      "orig_x": 1121,
+      "orig_y": 286,
+      "width": 173,
+      "height": 126,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 24,
+      "name": "sprite_024_127x117.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_024_127x117.png",
+      "orig_x": 17,
+      "orig_y": 433,
+      "width": 127,
+      "height": 117,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 22,
+      "name": "sprite_022_89x123.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_022_89x123.png",
+      "orig_x": 277,
+      "orig_y": 429,
+      "width": 89,
+      "height": 123,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 28,
+      "name": "sprite_028_93x112.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_028_93x112.png",
+      "orig_x": 376,
+      "orig_y": 437,
+      "width": 93,
+      "height": 112,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 23,
+      "name": "sprite_023_109x122.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_023_109x122.png",
+      "orig_x": 474,
+      "orig_y": 430,
+      "width": 109,
+      "height": 122,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 26,
+      "name": "sprite_026_94x117.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_026_94x117.png",
+      "orig_x": 601,
+      "orig_y": 434,
+      "width": 94,
+      "height": 117,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 25,
+      "name": "sprite_025_106x114.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_025_106x114.png",
+      "orig_x": 714,
+      "orig_y": 433,
+      "width": 106,
+      "height": 114,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 27,
+      "name": "sprite_027_131x121.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_027_131x121.png",
+      "orig_x": 843,
+      "orig_y": 433,
+      "width": 131,
+      "height": 121,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 29,
+      "name": "sprite_029_132x110.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_029_132x110.png",
+      "orig_x": 992,
+      "orig_y": 439,
+      "width": 132,
+      "height": 110,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 21,
+      "name": "sprite_021_133x129.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_021_133x129.png",
+      "orig_x": 1247,
+      "orig_y": 423,
+      "width": 133,
+      "height": 129,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 30,
+      "name": "sprite_030_111x104.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_030_111x104.png",
+      "orig_x": 154,
+      "orig_y": 443,
+      "width": 111,
+      "height": 104,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 31,
+      "name": "sprite_031_81x68.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_031_81x68.png",
+      "orig_x": 1148,
+      "orig_y": 462,
+      "width": 81,
+      "height": 68,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 32,
+      "name": "sprite_032_92x68.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_032_92x68.png",
+      "orig_x": 1418,
+      "orig_y": 471,
+      "width": 92,
+      "height": 68,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 33,
+      "name": "sprite_033_162x137.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_033_162x137.png",
+      "orig_x": 1358,
+      "orig_y": 559,
+      "width": 162,
+      "height": 137,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 34,
+      "name": "sprite_034_146x138.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_034_146x138.png",
+      "orig_x": 14,
+      "orig_y": 572,
+      "width": 146,
+      "height": 138,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 38,
+      "name": "sprite_038_124x128.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_038_124x128.png",
+      "orig_x": 171,
+      "orig_y": 581,
+      "width": 124,
+      "height": 128,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 37,
+      "name": "sprite_037_117x127.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_037_117x127.png",
+      "orig_x": 313,
+      "orig_y": 578,
+      "width": 117,
+      "height": 127,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 40,
+      "name": "sprite_040_120x120.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_040_120x120.png",
+      "orig_x": 450,
+      "orig_y": 583,
+      "width": 120,
+      "height": 120,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 36,
+      "name": "sprite_036_147x127.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_036_147x127.png",
+      "orig_x": 587,
+      "orig_y": 572,
+      "width": 147,
+      "height": 127,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 39,
+      "name": "sprite_039_193x118.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_039_193x118.png",
+      "orig_x": 749,
+      "orig_y": 581,
+      "width": 193,
+      "height": 118,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 35,
+      "name": "sprite_035_169x127.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_035_169x127.png",
+      "orig_x": 959,
+      "orig_y": 572,
+      "width": 169,
+      "height": 127,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 41,
+      "name": "sprite_041_196x106.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_041_196x106.png",
+      "orig_x": 1142,
+      "orig_y": 590,
+      "width": 196,
+      "height": 106,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 43,
+      "name": "sprite_043_206x110.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_043_206x110.png",
+      "orig_x": 946,
+      "orig_y": 713,
+      "width": 206,
+      "height": 110,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 42,
+      "name": "sprite_042_342x122.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_042_342x122.png",
+      "orig_x": 1176,
+      "orig_y": 707,
+      "width": 342,
+      "height": 122,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 48,
+      "name": "sprite_048_95x76.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_048_95x76.png",
+      "orig_x": 15,
+      "orig_y": 744,
+      "width": 95,
+      "height": 76,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 49,
+      "name": "sprite_049_81x66.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_049_81x66.png",
+      "orig_x": 207,
+      "orig_y": 746,
+      "width": 81,
+      "height": 66,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 46,
+      "name": "sprite_046_60x65.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_046_60x65.png",
+      "orig_x": 305,
+      "orig_y": 740,
+      "width": 60,
+      "height": 65,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 50,
+      "name": "sprite_050_29x26.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_050_29x26.png",
+      "orig_x": 405,
+      "orig_y": 749,
+      "width": 29,
+      "height": 26,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 51,
+      "name": "sprite_051_28x22.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_051_28x22.png",
+      "orig_x": 475,
+      "orig_y": 751,
+      "width": 28,
+      "height": 22,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 45,
+      "name": "sprite_045_128x83.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_045_128x83.png",
+      "orig_x": 534,
+      "orig_y": 729,
+      "width": 128,
+      "height": 83,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 47,
+      "name": "sprite_047_71x67.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_047_71x67.png",
+      "orig_x": 677,
+      "orig_y": 742,
+      "width": 71,
+      "height": 67,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 44,
+      "name": "sprite_044_156x86.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_044_156x86.png",
+      "orig_x": 768,
+      "orig_y": 726,
+      "width": 156,
+      "height": 86,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 52,
+      "name": "sprite_052_58x52.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_052_58x52.png",
+      "orig_x": 131,
+      "orig_y": 761,
+      "width": 58,
+      "height": 52,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 53,
+      "name": "sprite_053_27x25.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_053_27x25.png",
+      "orig_x": 383,
+      "orig_y": 768,
+      "width": 27,
+      "height": 25,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 55,
+      "name": "sprite_055_32x26.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_055_32x26.png",
+      "orig_x": 407,
+      "orig_y": 779,
+      "width": 32,
+      "height": 26,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 54,
+      "name": "sprite_054_24x22.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_054_24x22.png",
+      "orig_x": 458,
+      "orig_y": 775,
+      "width": 24,
+      "height": 22,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 56,
+      "name": "sprite_056_25x22.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_056_25x22.png",
+      "orig_x": 492,
+      "orig_y": 780,
+      "width": 25,
+      "height": 22,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 60,
+      "name": "sprite_060_100x167.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_060_100x167.png",
+      "orig_x": 442,
+      "orig_y": 834,
+      "width": 100,
+      "height": 167,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 61,
+      "name": "sprite_061_99x163.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_061_99x163.png",
+      "orig_x": 561,
+      "orig_y": 838,
+      "width": 99,
+      "height": 163,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 58,
+      "name": "sprite_058_171x165.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_058_171x165.png",
+      "orig_x": 675,
+      "orig_y": 833,
+      "width": 171,
+      "height": 165,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 59,
+      "name": "sprite_059_178x164.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_059_178x164.png",
+      "orig_x": 860,
+      "orig_y": 834,
+      "width": 178,
+      "height": 164,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 57,
+      "name": "sprite_057_237x179.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_057_237x179.png",
+      "orig_x": 1286,
+      "orig_y": 831,
+      "width": 237,
+      "height": 179,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 62,
+      "name": "sprite_062_229x125.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_062_229x125.png",
+      "orig_x": 1045,
+      "orig_y": 874,
+      "width": 229,
+      "height": 125,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 64,
+      "name": "sprite_064_135x105.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_064_135x105.png",
+      "orig_x": 13,
+      "orig_y": 886,
+      "width": 135,
+      "height": 105,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 65,
+      "name": "sprite_065_126x98.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_065_126x98.png",
+      "orig_x": 160,
+      "orig_y": 888,
+      "width": 126,
+      "height": 98,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    },
+    {
+      "index": 63,
+      "name": "sprite_063_131x109.png",
+      "category": "pastel_fantasy_nature_sprite_collection",
+      "path": "D:\\little-things\\assets\\processed\\pastel_fantasy_nature_sprite_collection\\sprite_063_131x109.png",
+      "orig_x": 299,
+      "orig_y": 880,
+      "width": 131,
+      "height": 109,
+      "is_binary_alpha": true,
+      "unique_alphas": [
+        0,
+        255
+      ]
+    }
+  ]
+}

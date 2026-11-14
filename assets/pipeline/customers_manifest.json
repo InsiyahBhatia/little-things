@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bunny",
+    "name": "Bunny",
+    "sprite": "customers/customer_bunny.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "bear",
+    "name": "Bear",
+    "sprite": "customers/customer_bear.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "frog",
+    "name": "Frog",
+    "sprite": "customers/customer_frog.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "fox",
+    "name": "Fox",
+    "sprite": "customers/customer_fox.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushroom",
+    "sprite": "customers/customer_mushroom.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "fairy",
+    "name": "Fairy",
+    "sprite": "customers/customer_fairy.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "bird",
+    "name": "Bird",
+    "sprite": "customers/customer_bird.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "cat",
+    "name": "Cat",
+    "sprite": "customers/customer_cat.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "hedgehog",
+    "name": "Hedgehog",
+    "sprite": "customers/customer_hedgehog.png",
+    "width": 40,
+    "height": 48
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "sprite": "customers/customer_ghost.png",
+    "width": 40,
+    "height": 48
+  }
+]

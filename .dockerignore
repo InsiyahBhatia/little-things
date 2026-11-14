@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.git
+.github
+assets
+scripts
+docs
+*.md
+!README.md

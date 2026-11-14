@@ -1,0 +1,37 @@
+[
+  {
+    "id": "moonflower",
+    "name": "Moonflower",
+    "desc": "Glowing lavender flower that opens under moonlight",
+    "sprite": "flowers/flower_moonflower.png",
+    "price": 10
+  },
+  {
+    "id": "sunberry",
+    "name": "Sunberry Bloom",
+    "desc": "Golden blossom filled with warm sunny nectar",
+    "sprite": "flowers/flower_sunberry.png",
+    "price": 10
+  },
+  {
+    "id": "dream_tulip",
+    "name": "Dream Tulip",
+    "desc": "Soft pink tulip that whispers dreamy secrets",
+    "sprite": "flowers/flower_dream_tulip.png",
+    "price": 10
+  },
+  {
+    "id": "glowcap",
+    "name": "Glowcap Mushroom",
+    "desc": "Bioluminescent cap that lights dark paths",
+    "sprite": "flowers/flower_glowcap.png",
+    "price": 10
+  },
+  {
+    "id": "whisper_fern",
+    "name": "Whisper Fern",
+    "desc": "Silver fern whose fronds rustle in still air",
+    "sprite": "flowers/flower_whisper_fern.png",
+    "price": 10
+  }
+]

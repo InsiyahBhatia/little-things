@@ -1,0 +1,342 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Little Things design system
+ *
+ * The interface is drawn like the labels and signs of Mimi's apothecary:
+ * parchment panels with hard, notched pixel frames that match the pixel art
+ * of the world. No blur, no soft shadows, no rounded corners.
+ *
+ * Colour
+ *   night / plum   the dark of the world behind and around the game
+ *   paper          parchment surfaces that hold reading and choices
+ *   ink            text and every outline
+ *   honey          the one thing to press; also coins
+ *   moss / rose    "you have this" / "you are missing this"
+ *
+ * Type
+ *   display        Pixelify Sans: names, titles, buttons, numbers
+ *   body           Nunito: anything read as a sentence
+ */
+:root {
+  /* Channels are stored as "r g b" so utilities can add opacity, e.g. bg-night/60. */
+  --night-rgb: 27 20 36;
+  --plum-rgb: 58 42 71;
+  --plum-light-rgb: 85 64 106;
+  --ink-rgb: 42 27 46;
+  --paper-rgb: 244 230 200;
+  --paper-shade-rgb: 227 207 166;
+  --paper-deep-rgb: 201 177 132;
+  --honey-rgb: 232 179 65;
+  --honey-deep-rgb: 180 127 36;
+  --moss-rgb: 95 138 80;
+  --rose-rgb: 184 79 108;
+  --mist-rgb: 185 168 201;
+
+  --night: rgb(var(--night-rgb));
+  --plum: rgb(var(--plum-rgb));
+  --plum-light: rgb(var(--plum-light-rgb));
+  --ink: rgb(var(--ink-rgb));
+  --paper: rgb(var(--paper-rgb));
+  --paper-shade: rgb(var(--paper-shade-rgb));
+  --paper-deep: rgb(var(--paper-deep-rgb));
+  --honey: rgb(var(--honey-rgb));
+  --honey-deep: rgb(var(--honey-deep-rgb));
+  --moss: rgb(var(--moss-rgb));
+  --rose: rgb(var(--rose-rgb));
+  --mist: rgb(var(--mist-rgb));
+
+  --frame: 3px;
+  --text-sm: 0.8125rem;
+  --text-base: 0.9375rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.5rem;
+}
+
+html,
+body {
+  height: 100%;
+  overscroll-behavior: none;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  /* No double-tap zoom, long-press menus or text selection while playing.
+     (Panels still scroll; the canvas and joystick block gestures themselves.) */
+  touch-action: manipulation;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+  background: var(--night);
+  color: var(--paper);
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: var(--text-base);
+  line-height: 1.5;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+}
+
+canvas {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  touch-action: none;
+}
+
+:focus-visible {
+  outline: 3px solid var(--honey);
+  outline-offset: 3px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--paper-shade);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--ink);
+  border: 2px solid var(--paper-shade);
+}
+
+@layer components {
+  /* Sprites shown in the interface keep their hard pixel edges. */
+  .pixelated {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+  }
+
+  .font-display {
+    font-family: var(--font-display), ui-monospace, monospace;
+    letter-spacing: 0.01em;
+  }
+
+  /* Notched pixel outline: four offset shadows leave the corners open. */
+  .frame {
+    box-shadow:
+      0 calc(var(--frame) * -1) 0 0 var(--ink),
+      0 var(--frame) 0 0 var(--ink),
+      calc(var(--frame) * -1) 0 0 0 var(--ink),
+      var(--frame) 0 0 0 var(--ink);
+  }
+
+  /* Parchment surface for reading and choosing. */
+  .panel {
+    background: var(--paper);
+    color: var(--ink);
+    box-shadow:
+      0 calc(var(--frame) * -1) 0 0 var(--ink),
+      0 var(--frame) 0 0 var(--ink),
+      calc(var(--frame) * -1) 0 0 0 var(--ink),
+      var(--frame) 0 0 0 var(--ink),
+      0 12px 0 0 rgb(0 0 0 / 0.35);
+  }
+
+  /* Dark sign that sits on top of the world without hiding it. */
+  .plaque {
+    background: var(--plum);
+    color: var(--paper);
+    box-shadow:
+      0 calc(var(--frame) * -1) 0 0 var(--ink),
+      0 var(--frame) 0 0 var(--ink),
+      calc(var(--frame) * -1) 0 0 0 var(--ink),
+      var(--frame) 0 0 0 var(--ink);
+  }
+
+  /* Recessed area inside a panel: a slot, a portrait, a list row. */
+  .well {
+    background: var(--paper-shade);
+    box-shadow: inset 0 3px 0 0 var(--paper-deep);
+  }
+
+  /*
+   * Buttons are chunky keys with a visible edge that they press down into.
+   * --face is the top, --edge the side.
+   */
+  .btn {
+    --face: var(--paper-shade);
+    --edge: var(--paper-deep);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 2.5rem;
+    padding: 0.375rem 1rem;
+    margin-bottom: 4px;
+    background: var(--face);
+    color: var(--ink);
+    font-family: var(--font-display), ui-monospace, monospace;
+    font-size: var(--text-lg);
+    line-height: 1.1;
+    cursor: pointer;
+    user-select: none;
+    box-shadow:
+      0 4px 0 0 var(--edge),
+      0 calc(var(--frame) * -1) 0 0 var(--ink),
+      calc(var(--frame) * -1) 0 0 0 var(--ink),
+      var(--frame) 0 0 0 var(--ink),
+      calc(var(--frame) * -1) 4px 0 0 var(--ink),
+      var(--frame) 4px 0 0 var(--ink),
+      0 calc(4px + var(--frame)) 0 0 var(--ink);
+  }
+  .btn:hover:not(:disabled) {
+    filter: brightness(1.06);
+  }
+  .btn:active:not(:disabled) {
+    transform: translateY(4px);
+    box-shadow:
+      0 calc(var(--frame) * -1) 0 0 var(--ink),
+      0 var(--frame) 0 0 var(--ink),
+      calc(var(--frame) * -1) 0 0 0 var(--ink),
+      var(--frame) 0 0 0 var(--ink);
+  }
+  .btn:disabled {
+    --face: var(--paper-shade);
+    --edge: var(--paper-deep);
+    color: rgb(var(--ink-rgb) / 0.45);
+    cursor: not-allowed;
+  }
+
+  /* The one action that moves things forward. */
+  .btn-primary {
+    --face: var(--honey);
+    --edge: var(--honey-deep);
+  }
+
+  /* Buttons that sit on the world rather than on paper. */
+  .btn-dark {
+    --face: var(--plum);
+    --edge: var(--ink);
+    color: var(--paper);
+  }
+  .btn-dark[aria-pressed='true'] {
+    --face: var(--plum-light);
+  }
+
+  .btn-sm {
+    min-height: 2rem;
+    padding: 0.25rem 0.625rem;
+    font-size: var(--text-base);
+  }
+
+  .btn-icon {
+    min-width: 2.5rem;
+    padding: 0.375rem;
+  }
+
+  /* A keyboard key. */
+  .keycap {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.375rem;
+    height: 1.375rem;
+    padding: 0 0.3rem;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--font-display), ui-monospace, monospace;
+    font-size: var(--text-sm);
+    line-height: 1;
+    box-shadow: 0 2px 0 0 var(--paper-deep);
+  }
+
+  /* Small count shown with an ingredient or item. */
+  .tally {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.125rem 0.375rem;
+    font-family: var(--font-display), ui-monospace, monospace;
+    font-size: var(--text-sm);
+    line-height: 1.2;
+    background: var(--paper-shade);
+  }
+  .tally[data-state='have'] {
+    background: var(--moss);
+    color: var(--paper);
+  }
+  .tally[data-state='missing'] {
+    box-shadow: inset 0 0 0 2px var(--rose);
+  }
+
+  /* Volume sliders, drawn as a pixel track with a square handle. */
+  .slider {
+    appearance: none;
+    width: 100%;
+    height: 1.5rem;
+    background: transparent;
+    cursor: pointer;
+  }
+  .slider::-webkit-slider-runnable-track {
+    height: 8px;
+    background: var(--paper-deep);
+    box-shadow: 0 0 0 var(--frame) var(--ink);
+  }
+  .slider::-moz-range-track {
+    height: 8px;
+    background: var(--paper-deep);
+    box-shadow: 0 0 0 var(--frame) var(--ink);
+  }
+  .slider::-webkit-slider-thumb {
+    appearance: none;
+    width: 16px;
+    height: 22px;
+    margin-top: -7px;
+    background: var(--honey);
+    box-shadow: 0 0 0 var(--frame) var(--ink);
+  }
+  .slider::-moz-range-thumb {
+    width: 16px;
+    height: 22px;
+    border: 0;
+    border-radius: 0;
+    background: var(--honey);
+    box-shadow: 0 0 0 var(--frame) var(--ink);
+  }
+
+  /* The game's name on the title screen. */
+  .title-mark {
+    font-family: var(--font-display), ui-monospace, monospace;
+    font-weight: 700;
+    /* Sized by height too, so it fits a phone held sideways. */
+    font-size: clamp(2.25rem, min(10vw, 13vh), 6.5rem);
+    line-height: 0.95;
+    color: var(--paper);
+    text-shadow:
+      0.045em 0.045em 0 var(--ink),
+      0.09em 0.09em 0 var(--rose);
+  }
+}
+
+/* Panels arrive with a single short step up; nothing else animates on its own. */
+@keyframes panel-in {
+  from {
+    transform: translateY(8px);
+    opacity: 0;
+  }
+}
+.panel-in {
+  animation: panel-in 120ms steps(3, end);
+}
+
+/* The cauldron rocks while it is being stirred. */
+@keyframes cauldron-stir {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-4deg); }
+  75% { transform: rotate(4deg); }
+}
+.cauldron-stir {
+  animation: cauldron-stir 280ms steps(4, end) infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .panel-in,
+  .cauldron-stir {
+    animation: none;
+  }
+  .btn:active:not(:disabled) {
+    transform: none;
+  }
+}

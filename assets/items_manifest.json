@@ -1,0 +1,82 @@
+{
+  "moonberry_jam": {
+    "id": "moonberry_jam",
+    "name": "Moonberry Jam",
+    "prefix": "sprite_007_",
+    "category": "potion",
+    "price": 18,
+    "stardust": 0,
+    "desc": "Sweet jam made of night-blooming berries.",
+    "icon": "items/item_moonberry_jam.png"
+  },
+  "dream_candle": {
+    "id": "dream_candle",
+    "name": "Dream Candle",
+    "prefix": "sprite_001_",
+    "category": "artifact",
+    "price": 24,
+    "stardust": 1,
+    "desc": "Scent of lavender that invites pleasant dreams.",
+    "icon": "items/item_dream_candle.png"
+  },
+  "fairy_dust": {
+    "id": "fairy_dust",
+    "name": "Fairy Dust",
+    "prefix": "sprite_000_",
+    "category": "ingredient",
+    "price": 35,
+    "stardust": 2,
+    "desc": "Glittering powder left by visiting fairies.",
+    "icon": "items/item_fairy_dust.png"
+  },
+  "memory_potion": {
+    "id": "memory_potion",
+    "name": "Memory Potion",
+    "prefix": "sprite_002_",
+    "category": "potion",
+    "price": 42,
+    "stardust": 3,
+    "desc": "Dewdrops and moonflower distilled to recall secrets.",
+    "icon": "items/item_memory_potion.png"
+  },
+  "cloud_in_a_jar": {
+    "id": "cloud_in_a_jar",
+    "name": "Cloud-in-a-Jar",
+    "prefix": "sprite_008_",
+    "category": "artifact",
+    "price": 50,
+    "stardust": 4,
+    "desc": "Fluffy sky essence captured in enchanted glass.",
+    "icon": "items/item_cloud_in_a_jar.png"
+  },
+  "starlight_elixir": {
+    "id": "starlight_elixir",
+    "name": "Starlight Elixir",
+    "prefix": "sprite_003_",
+    "category": "potion",
+    "price": 60,
+    "stardust": 5,
+    "desc": "Pure distilled starlight from the night observatory.",
+    "icon": "items/item_starlight_elixir.png"
+  },
+  "forest_dew": {
+    "id": "forest_dew",
+    "name": "Forest Dew",
+    "prefix": "sprite_004_",
+    "category": "ingredient",
+    "price": 12,
+    "stardust": 0,
+    "desc": "Morning dew gathered from whispering fern fronds.",
+    "icon": "items/item_forest_dew.png"
+  },
+  "sunberry_tonic": {
+    "id": "sunberry_tonic",
+    "name": "Sunberry Tonic",
+    "prefix": "sprite_005_",
+    "category": "potion",
+    "price": 22,
+    "stardust": 0,
+    "desc": "Golden tonic bubbling with cheerful daylight energy.",
+    "icon": "items/item_sunberry_tonic.png"
+  }
+}

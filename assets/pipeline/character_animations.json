@@ -1,0 +1,158 @@
+{
+  "mimi": {
+    "spritesheet": "characters/mimi_walk_sheet.png",
+    "portrait": "characters/mimi_portrait.png",
+    "frame_width": 32,
+    "frame_height": 48,
+    "footprint": {
+      "width": 16,
+      "height": 20,
+      "offset_y": 28
+    },
+    "animations": {
+      "idle_down": {
+        "frames": [
+          0
+        ],
+        "fps": 1,
+        "loop": true,
+        "verified": true
+      },
+      "walk_down": {
+        "frames": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "fps": 6,
+        "loop": true,
+        "verified": true
+      },
+      "idle_right": {
+        "frames": [
+          4
+        ],
+        "fps": 1,
+        "loop": true,
+        "verified": true
+      },
+      "walk_right": {
+        "frames": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "fps": 6,
+        "loop": true,
+        "verified": true
+      },
+      "idle_up": {
+        "frames": [
+          8
+        ],
+        "fps": 1,
+        "loop": true,
+        "verified": true
+      },
+      "walk_up": {
+        "frames": [
+          8,
+          9,
+          10,
+          11
+        ],
+        "fps": 6,
+        "loop": true,
+        "verified": true
+      },
+      "idle_left": {
+        "frames": [
+          12
+        ],
+        "fps": 1,
+        "loop": true,
+        "verified": true
+      },
+      "walk_left": {
+        "frames": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "fps": 6,
+        "loop": true,
+        "verified": true
+      },
+      "interact": {
+        "frames": [
+          0,
+          1,
+          0
+        ],
+        "fps": 4,
+        "loop": false,
+        "verified": true
+      }
+    }
+  },
+  "pickles": {
+    "spritesheet": "characters/pickles_sheet.png",
+    "frame_width": 32,
+    "frame_height": 32,
+    "animations": {
+      "sleep": {
+        "frames": [
+          0
+        ],
+        "fps": 1,
+        "loop": true,
+        "verified": true
+      },
+      "sit": {
+        "frames": [
+          1
+        ],
+        "fps": 1,
+        "loop": true,
+        "verified": true
+      },
+      "lounge": {
+        "frames": [
+          2
+        ],
+        "fps": 1,
+        "loop": true,
+        "verified": true
+      },
+      "stretch": {
+        "frames": [
+          3
+        ],
+        "fps": 2,
+        "loop": true,
+        "verified": true
+      }
+    }
+  },
+  "pip": {
+    "spritesheet": "characters/pip_sheet.png",
+    "frame_width": 24,
+    "frame_height": 32,
+    "animations": {
+      "flutter": {
+        "frames": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "fps": 8,
+        "loop": true,
+        "verified": true
+      }
+    }
+  }
+}

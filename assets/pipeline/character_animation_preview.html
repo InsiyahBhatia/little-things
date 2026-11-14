@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>LITTLE THINGS — Character Animation Preview & Verification</title>
+<style>
+  body { font-family: monospace; background: #261d30; color: #f2deb8; padding: 24px; }
+  h1, h2 { color: #e9b7aa; margin: 4px 0 16px 0; }
+  .card { background: #342842; border: 1px solid #766184; border-radius: 8px; padding: 16px; margin-bottom: 20px; }
+  .row { display: flex; gap: 24px; align-items: center; margin-top: 12px; }
+  .box { background: #443455; padding: 12px; border-radius: 6px; text-align: center; }
+  .preview-stage {
+    width: 96px; height: 144px;
+    background: repeating-conic-gradient(#392d49 0% 25%, #4a3b5f 0% 50%) 50% / 16px 16px;
+    border: 2px solid #b987a4; border-radius: 4px;
+    position: relative; overflow: hidden;
+  }
+  .sprite-mimi {
+    width: 32px; height: 48px;
+    image-rendering: pixelated;
+    background-image: url('approved/characters/mimi_walk_sheet.png');
+    background-size: 128px 192px;
+    transform: scale(3);
+    transform-origin: top left;
+  }
+  @keyframes walk-down {
+    0% { background-position: 0px 0px; }
+    25% { background-position: -32px 0px; }
+    50% { background-position: -64px 0px; }
+    75% { background-position: -96px 0px; }
+    100% { background-position: 0px 0px; }
+  }
+  @keyframes walk-right {
+    0% { background-position: 0px -48px; }
+    25% { background-position: -32px -48px; }
+    50% { background-position: -64px -48px; }
+    75% { background-position: -96px -48px; }
+    100% { background-position: 0px -48px; }
+  }
+  @keyframes walk-up {
+    0% { background-position: 0px -96px; }
+    25% { background-position: -32px -96px; }
+    50% { background-position: -64px -96px; }
+    75% { background-position: -96px -96px; }
+    100% { background-position: 0px -96px; }
+  }
+  @keyframes walk-left {
+    0% { background-position: 0px -144px; }
+    25% { background-position: -32px -144px; }
+    50% { background-position: -64px -144px; }
+    75% { background-position: -96px -144px; }
+    100% { background-position: 0px -144px; }
+  }
+  .anim-down { animation: walk-down 0.66s steps(1) infinite; }
+  .anim-right { animation: walk-right 0.66s steps(1) infinite; }
+  .anim-up { animation: walk-up 0.66s steps(1) infinite; }
+  .anim-left { animation: walk-left 0.66s steps(1) infinite; }
+  .badge { background: #5c8756; color: #fff; padding: 2px 8px; border-radius: 4px; font-size: 11px; }
+</style>
+</head>
+<body>
+<h1>LITTLE THINGS — Character Animation Preview & Verification</h1>
+<p>Frame alignment and visual continuity verification for production spritesheets.</p>
+
+<div class="card">
+  <h2>Mimi (The Apprentice) — 4-Direction Walk Cycles <span class="badge">VERIFIED</span></h2>
+  <div class="row">
+    <div class="box">
+      <div>Walk Down</div>
+      <div class="preview-stage"><div class="sprite-mimi anim-down"></div></div>
+    </div>
+    <div class="box">
+      <div>Walk Right</div>
+      <div class="preview-stage"><div class="sprite-mimi anim-right"></div></div>
+    </div>
+    <div class="box">
+      <div>Walk Up</div>
+      <div class="preview-stage"><div class="sprite-mimi anim-up"></div></div>
+    </div>
+    <div class="box">
+      <div>Walk Left</div>
+      <div class="preview-stage"><div class="sprite-mimi anim-left"></div></div>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>Pickles & Pip Spritesheets <span class="badge">VERIFIED</span></h2>
+  <p>Pickles (Sleeping, Sitting with Hat, Lounge, Stretch):</p>
+  <img src="approved/characters/pickles_sheet.png" style="image-rendering:pixelated; height: 64px; background:#443455; padding:8px; border-radius:4px;">
+  <p>Pip Flutter Frames:</p>
+  <img src="approved/characters/pip_sheet.png" style="image-rendering:pixelated; height: 64px; background:#443455; padding:8px; border-radius:4px;">
+</div>
+</body>
+</html>
